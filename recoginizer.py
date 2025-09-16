@@ -6,7 +6,7 @@ recoginizer.read('trainer/trainer.yml')
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 font=cv2.FONT_HERSHEY_SIMPLEX
 
-names = ['None', 'febin', 'febin']
+names = ['None', 'febin', 'febin','krisb']
 
 cam = cv2.VideoCapture(0)
 
